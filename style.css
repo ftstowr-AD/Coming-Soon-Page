@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    background-color: #e4ebf1;
+}
+
+
+main{
+    padding: 30px;
+}
+
+.comingsoon-section{
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.comingsoon-section h1{
+    font-size: 5rem;
+}
+
+.comingsoon-section p{
+    font-size: 1.5rem;
+    color: lightslategrey;
+}
+
+input{
+    padding: 10px;
+    margin-top: 20px;
+    width: 250px;
+    font-size: 1rem;
+}
+
+button{
+    font-size: 1rem;
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    /* border: none; */
+    margin-left: 10px;
+}
+
+button:hover{
+    background-color: #144f8e;
+}
+
+footer{
+    text-align: center;
+    font-family: 1rem;
+    /* padding: 20px;   */
+}
+
+
+
+
